@@ -9,7 +9,7 @@ int main()
   b = sub(10,3);
   printf("The output of Sub is %d\n",b);
   c = mul(10,3);
-  printf("The output of Mul is %d\n",b);
+  printf("The output of Mul is %d\n",c);
   d = div(10,2);
-  printf("The output of div is %d\n",b);
+  printf("The output of div is %d\n",d);
 }
