@@ -13,5 +13,5 @@ int main()
   d = div(10,2);
   printf("The output of div is %d\n",d);
   e = div(10,2);
-  printf("The output of div is %d\n",e);
+  printf("The output of mod is %d\n",e);
 }
